@@ -43,13 +43,13 @@ function generatePassword() {
         }
        else{
     
-
+              return password;
            
 
         }
     
     }
-      return password; 
+      
 }
 
 
